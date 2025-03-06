@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lessons>
+    <lesson id="1" name="Greetings">
+        <card>
+            <front>Hello</front>
+            <back>Hola</back>
+            <audio>audio/hello.mp3</audio>
+        </card>
+        <card>
+            <front>Goodbye</front>
+            <back>Adiós</back>
+            <audio>audio/goodbye.mp3</audio>
+        </card>
+    </lesson>
+    
+    <lesson id="2" name="Numbers">
+        <card>
+            <front>One</front>
+            <back>Uno</back>
+            <audio>audio/one.mp3</audio>
+        </card>
+        <card>
+            <front>Two</front>
+            <back>Dos</back>
+            <audio>audio/two.mp3</audio>
+        </card>
+    </lesson>
+</lessons>
